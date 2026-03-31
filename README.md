@@ -1,16 +1,16 @@
-## Hi there 👋
+# Wolfgang Black
 
-<!--
-**wolfgangjblack/wolfgangjblack** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Head of Engineering @ Wonder Studios | GenAI/Agentic Architect | Startup Advisor
 
-Here are some ideas to get you started:
+I build generative AI systems that creative people actually use. Currently leading engineering, product, and design at Wonder Studios, where we're building fully agentic, human-in-the-loop workflows for transmedia content creation.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Previously: Principal ML/AI Consultant (gaming, film, e-commerce, dev tools) · Founding AI Engineer @ CivitAI · Head of ML @ Open Model Initiative (Linux Foundation) · PhD in Mechanical Engineering via Los Alamos & Lawrence Livermore National Labs
+
+## What I work on
+- Agentic architectures for creative workflows
+- Diffusion model finetuning and inference optimization
+- Multimodal pipelines (image, text, audio, video, 3D)
+- Creator tools for storytelling, worldbuilding, and game development
+- MLOps on constrained GPU infrastructure
+
+[LinkedIn](https://www.linkedin.com/in/wolfgangjblack/)
